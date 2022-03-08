@@ -23,8 +23,8 @@ Mobile application created to save project ideas and references. It is capable o
 
 - [x] Create Task List => README.md
 - Week 4
-  - [ ] Set up work enviroment, repo and download dependencies - 1H
-  - [ ] Set up basic layout of a React project - 2H
+  - [x] Set up work enviroment, repo and download dependencies - 1H
+  - [x] Set up basic layout of a React project - 2H
 - Week 5
   - [ ] Implement a basic GUI layout - 2H
   - [ ] Add action buttons with dummy API calls - 1H
